@@ -1,0 +1,7 @@
+{
+  "name": "GymFace SaaS",
+  "description": "Sistema SaaS de reconhecimento facial para academias com multi-tenancy, anti-spoofing e integração Stripe.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
